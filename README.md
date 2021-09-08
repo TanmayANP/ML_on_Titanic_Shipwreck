@@ -9,6 +9,7 @@
 **Dataset:** https://www.kaggle.com/c/titanic  
 ## Data Description
 https://www.kaggle.com/c/titanic/data  
+Basicaly we have all the information of the passengers who boarded the Titanic, based on this we need to predict whether the passenger survived the shipwreck or not.
 ## Data Cleaning
 After, getting the data i needed to clean it up so that it was usable for my model. I made the following changes to our raw data:
 *    Droped PassengerId column as it did not add any value
