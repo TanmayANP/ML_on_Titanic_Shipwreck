@@ -1,6 +1,6 @@
 # Titanic Machine Learning from Disaster
 * Build an ML model that takes the information of a passenger, predicts whether he/she survived with an accuracy of 80% approx.
-* Data is taken from the Kaggle **Titanic** competetion.
+* Data is taken from the Kaggle **Titanic** competition.
 * Did some Data Preprocessing(Outlier Detection, Handling Missing Values and Feature Engineering) on original data.
 * Optimized various ML models with GridSearchCV to reach the best model
 ## Code and Resources Used
