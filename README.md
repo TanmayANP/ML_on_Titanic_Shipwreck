@@ -5,7 +5,7 @@
 * Optimized various ML models with GridSearchCV to reach the best model
 ## Code and Resources Used
 **Python version:** 3.8  
-**Packages:** numpy, pandas, matplotlib, seaborn, collections, scikit-lea  
+**Packages:** numpy, pandas, matplotlib, seaborn, collections, scikit-learn
 **Dataset:** https://www.kaggle.com/c/titanic  
 ## Data Description
 We have the information of all the passengers who boarded the Titanic ship to predict whether the passenger survived the shipwreck. The dataset contains the passenger class, gender, age, ticket number, cabin number, fare, number of parents/children aboard the Titanic, number of siblings/spouses aboard the Titanic, and the port of embarkment of each passenger.
